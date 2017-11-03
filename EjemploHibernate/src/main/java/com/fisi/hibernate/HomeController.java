@@ -27,7 +27,7 @@ import com.fisi.hibernate.service.EmpleadoService;
 public class HomeController {
 
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
-
+ 
 	@Autowired
 	private EmpleadoService empleadoService;
 
